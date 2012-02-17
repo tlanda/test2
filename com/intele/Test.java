@@ -8,7 +8,8 @@ public class Test {
 	}
 
 	public void main() {
-		Test test = new Test();
 		System.out.println("Hello GIT!");
+		Test test = new Test();
+		System.out.println("Hello again GIT!");
 	}
 }
